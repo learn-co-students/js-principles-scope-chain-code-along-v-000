@@ -1,28 +1,31 @@
-var customerName = 'bob'
-const leastFavoriteCustomer = 'sour fred'
+var customerName = 'bob';
+const leastFavoriteCustomer = 'sour fred';
 
 function upperCaseCustomerName() {
   return customerName = customerName.toUpperCase()
 }
 
 function changeLeastFavoriteCustomer(){
-  leastFavoriteCustomer = 'sour fred'
+  leastFavoriteCustomer = 'sour fred';
 }
-
 
 function setBestCustomer(){
-  bestCustomer = 'not bob'
+  bestCustomer = 'not bob';
 }
 
-function overWriteBestCustomer(newFavorite){
-  bestCustomer = newFavorite
+function overWriteBestCustomer(){
+  bestCustomer = 'maybe bob'
+}
+
+function changeLeastFavoriteCustomer() {
+    leastFavoriteCustomer = "Mike";
 }
 
 function congratulateCustomer(){
-  return `congrats ${favoriteCustomer}`
+  return `congrats ${favoriteCustomer}`;
 }
 
 function attemptTwoFavoriteCustomers(){
-    let favoriteCustomer = 'bar'
-    let favoriteCustomer = 'not bar'
+    let favoriteCustomer = 'bar';
+    let favoriteCustomer = 'not bar';
 }

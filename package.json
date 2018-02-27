@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git+ssh://git@github.com/learn-co-curriculum/javascript-strings-lab.git"
   },
+  "scripts": {
+    "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
+  },
   "keywords": [
     "learn",
     "flatiron school",
