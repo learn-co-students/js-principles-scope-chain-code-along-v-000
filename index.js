@@ -26,3 +26,7 @@ function attemptTwoFavoriteCustomers(){
     let favoriteCustomer = 'bar'
     let favoriteCustomer = 'not bar'
 }
+
+function helloJupiter() {
+  alert("Change made!");
+}
