@@ -9,7 +9,6 @@ function changeLeastFavoriteCustomer(){
   leastFavoriteCustomer = 'sour fred'
 }
 
-
 function setBestCustomer(){
   bestCustomer = 'not bob'
 }
@@ -19,7 +18,7 @@ function overWriteBestCustomer(newFavorite){
 }
 
 function congratulateCustomer(){
-  return `congrats ${favoriteCustomer}`
+  return `congrats ${favoriteCustomer}`;
 }
 
 function attemptTwoFavoriteCustomers(){
