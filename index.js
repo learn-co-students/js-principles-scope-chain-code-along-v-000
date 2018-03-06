@@ -21,8 +21,8 @@ function congratulateCustomer(){
   return `congrats ${favoriteCustomer}`
 }
 
-function reassignLeastFavorite(reassignedLF){
-  return reassignedLF = changeLeastFavoriteCustomer()
+function reassignLeastFavorite(){
+  return leastFavoriteCustomer = 'steve'
 }
 
 function attemptTwoFavoriteCustomers(){
