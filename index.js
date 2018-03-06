@@ -9,7 +9,6 @@ function changeLeastFavoriteCustomer(){
   leastFavoriteCustomer = 'sour fred'
 }
 
-
 function setBestCustomer(){
   bestCustomer = 'not bob'
 }
@@ -20,6 +19,10 @@ function overWriteBestCustomer(newFavorite){
 
 function congratulateCustomer(){
   return `congrats ${favoriteCustomer}`
+}
+
+function reassignLeastFavorite(reassignedLF){
+  return reassignedLF = changeLeastFavoriteCustomer()
 }
 
 function attemptTwoFavoriteCustomers(){
