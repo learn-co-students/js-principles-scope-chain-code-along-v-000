@@ -1,3 +1,5 @@
+
+
 {
   "name": "javascript-strings-lab",
   "version": "0.1.0",
@@ -7,6 +9,8 @@
     "type": "git",
     "url": "git+ssh://git@github.com/learn-co-curriculum/javascript-strings-lab.git"
   },
+
+
   "keywords": [
     "learn",
     "flatiron school",
@@ -22,5 +26,8 @@
   "homepage": "https://github.com/learn-co-curriculum/javascript-strings-lab#readme",
   "devDependencies": {
     "learn-browser": "^0.1.3"
+  },
+  "dependencies": {
+    "npm": "^5.7.1"
   }
 }
