@@ -1,6 +1,6 @@
 JavaScript Practice Scope Lab
 ---
-
+This has no learn tests.
 ## Objectives
 
 1. Understand the difference between const and let
