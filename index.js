@@ -11,7 +11,7 @@ function changeLeastFavoriteCustomer(){
 
 
 function setBestCustomer(){
-  bestCustomer = 'not boob'
+  bestCustomer = 'not bob'
 
 }
 
