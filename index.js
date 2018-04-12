@@ -7,7 +7,6 @@ function upperCaseCustomerName() {
 
 function changeLeastFavoriteCustomer(){
   leastFavoriteCustomer = 'sour joe'
-  debugger;
 }
 
 function setBestCustomer(){
