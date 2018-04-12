@@ -6,9 +6,9 @@ function upperCaseCustomerName() {
 }
 
 function changeLeastFavoriteCustomer(){
-  leastFavoriteCustomer = 'sour fred'
+  leastFavoriteCustomer = 'sour joe'
+  debugger;
 }
-
 
 function setBestCustomer(){
   bestCustomer = 'not bob'
