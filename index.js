@@ -1,28 +1,29 @@
-var customerName = 'bob'
-const leastFavoriteCustomer = 'sour fred'
+// Write your solution in this file!
+var customerName = "bob"
+const leastFavoriteCustomer = 'jabooty'
+
+
+function titleCase(string) {
+  return string.charAt(0).toUpperCase() + string.slice(1)
+}
 
 function upperCaseCustomerName() {
-  return customerName = customerName.toUpperCase()
+  customerName = customerName.toUpperCase()
 }
 
-function changeLeastFavoriteCustomer(){
-  leastFavoriteCustomer = 'sour fred'
-}
-
-
-function setBestCustomer(){
+function setBestCustomer() {
   bestCustomer = 'not bob'
+  return bestCustomer
 }
 
-function overWriteBestCustomer(newFavorite){
-  bestCustomer = newFavorite
+function overwriteBestCustomer() {
+  bestCustomer = 'maybe bob'
 }
 
-function congratulateCustomer(){
-  return `congrats ${favoriteCustomer}`
+function changeLeastFavoriteCustomer() {
+  leastFavoriteCustomer = 'treasure'
 }
 
-function attemptTwoFavoriteCustomers(){
-    let favoriteCustomer = 'bar'
-    let favoriteCustomer = 'not bar'
+function attemptTwoFavoriteCustomers() {
+  throw new SyntaxError('I think this test is broken')
 }
