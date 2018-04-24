@@ -9,7 +9,7 @@ function changeLeastFavoriteCustomer(){
   leastFavoriteCustomer = 'sour fred'
 }
 
-
+var x = y;
 function setBestCustomer(){
   bestCustomer = 'not bob'
 }
