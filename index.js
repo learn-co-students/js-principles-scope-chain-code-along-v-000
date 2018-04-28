@@ -6,7 +6,7 @@ function upperCaseCustomerName() {
 }
 
 function changeLeastFavoriteCustomer(){
-  leastFavoriteCustomer = 'sour fred'
+  leastFavoriteCustomer = 'johnny'
 }
 
 
@@ -26,3 +26,5 @@ function attemptTwoFavoriteCustomers(){
     let favoriteCustomer = 'bar'
     let favoriteCustomer = 'not bar'
 }
+
+(Added this line to submit the lab)
