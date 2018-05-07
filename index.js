@@ -9,7 +9,6 @@ function changeLeastFavoriteCustomer(){
   leastFavoriteCustomer = 'sour fred'
 }
 
-
 function setBestCustomer(){
   bestCustomer = 'not bob'
 }
