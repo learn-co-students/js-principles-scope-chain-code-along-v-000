@@ -1,28 +1,27 @@
-var customerName = 'bob'
-const leastFavoriteCustomer = 'sour fred'
 
-function upperCaseCustomerName() {
+var customerName = 'bob'
+
+function upperCaseCustomerName(){
   return customerName = customerName.toUpperCase()
 }
-
-function changeLeastFavoriteCustomer(){
-  leastFavoriteCustomer = 'sour fred'
-}
-
 
 function setBestCustomer(){
   bestCustomer = 'not bob'
 }
 
-function overWriteBestCustomer(newFavorite){
+function overWriteBestCustomer(){
+ newFavorite = 'maybe bob'
   bestCustomer = newFavorite
 }
 
-function congratulateCustomer(){
-  return `congrats ${favoriteCustomer}`
+const leastFavoriteCustomer = "foo"
+
+function changeLeastFavoriteCustomer(newFavorite){
+  console.log(leastFavoriteCustomer)
+  leastFavoriteCustomer = 'sour fred'
+console.log(leastFavoriteCustomer)
 }
 
 function attemptTwoFavoriteCustomers(){
-    let favoriteCustomer = 'bar'
-    let favoriteCustomer = 'not bar'
-}
+  throw SyntaxError();
+ }
