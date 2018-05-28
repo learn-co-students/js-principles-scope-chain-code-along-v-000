@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/learn-co-curriculum/javascript-strings-lab#readme",
   "devDependencies": {
+    "eslint-config-google": "^0.9.1",
     "learn-browser": "^0.1.3"
   }
 }
