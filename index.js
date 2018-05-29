@@ -6,7 +6,7 @@ function upperCaseCustomerName() {
 }
 
 function changeLeastFavoriteCustomer(){
-  leastFavoriteCustomer = 'sour fred'
+  leastFavoriteCustomer = 'maggie'
 }
 
 
@@ -14,8 +14,8 @@ function setBestCustomer(){
   bestCustomer = 'not bob'
 }
 
-function overWriteBestCustomer(newFavorite){
-  bestCustomer = newFavorite
+function overWriteBestCustomer(){
+  bestCustomer = 'maybe bob'
 }
 
 function congratulateCustomer(){
