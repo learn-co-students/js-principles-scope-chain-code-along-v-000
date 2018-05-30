@@ -3,7 +3,7 @@ const leastFavoriteCustomer = 'sour fred'
 
 function upperCaseCustomerName() {
   return customerName = customerName.toUpperCase()
-}
+} //a function that accesses that global customerName variable, and uppercases it.
 
 function changeLeastFavoriteCustomer(){
   leastFavoriteCustomer = 'sour fred'
