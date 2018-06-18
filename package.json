@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/learn-co-curriculum/javascript-strings-lab.git"
+    "url": "git+ssh://git@github.com/learn-co-curriculum/js-principles-scope-chain-code-along-v-000.git"
   },
   "keywords": [
     "learn",
@@ -21,9 +21,9 @@
   "author": "Flatiron School",
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
-    "url": "https://github.com/learn-co-curriculum/javascript-strings-lab/issues"
+    "url": "https://github.com/learn-co-students/js-principles-scope-chain-code-along-v-000/issues"
   },
-  "homepage": "https://github.com/learn-co-curriculum/javascript-strings-lab#readme",
+  "homepage": "https://github.com/learn-co-students/js-principles-scope-chain-code-along-v-000/blob/master/README.md",
   "devDependencies": {
     "learn-browser": "^0.1.3"
   }
