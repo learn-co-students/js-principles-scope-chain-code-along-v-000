@@ -1,6 +1,6 @@
 JavaScript Practice Scope Lab
 ---
-
+ch-ch-ch-ch-changes
 ## Objectives
 
 1. Understand the difference between const and let
