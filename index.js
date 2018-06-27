@@ -5,24 +5,28 @@ function upperCaseCustomerName() {
   return customerName = customerName.toUpperCase()
 }
 
-function changeLeastFavoriteCustomer(){
-  leastFavoriteCustomer = 'sour fred'
-}
-
-
-function setBestCustomer(){
+function setBestCustomer() {
   bestCustomer = 'not bob'
 }
 
-function overWriteBestCustomer(newFavorite){
+function overWriteBestCustomer(newFavorite) {
   bestCustomer = newFavorite
 }
 
-function congratulateCustomer(){
-  return `congrats ${favoriteCustomer}`
+function changeLeastFavoriteCustomer() {
+  leastFavoriteCustomer = 'sour fred'
 }
 
-function attemptTwoFavoriteCustomers(){
-    let favoriteCustomer = 'bar'
-    let favoriteCustomer = 'not bar'
-}
+//function congratulateCustomer() {
+//  return `congrats ${favoriteCustomer}`
+//}
+
+//function attemptTwoFavoriteCustomers() {
+//  let favoriteCustomer = 'bar'
+//  let favoriteCustomer = 'not bar'
+//}
+
+// Note: There is something wrong with this lab.
+// I followed all the fixes suggested on the issues tab
+// and nothing works. The last function in the lab
+// breaks everything instead of causing the expected error.
