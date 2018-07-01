@@ -26,3 +26,6 @@ function attemptTwoFavoriteCustomers(){
     let favoriteCustomer = 'bar'
     let favoriteCustomer = 'not bar'
 }
+
+
+#this lesson came filled out already
