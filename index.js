@@ -1,3 +1,4 @@
+
 var customerName = 'bob'
 const leastFavoriteCustomer = 'sour fred'
 
