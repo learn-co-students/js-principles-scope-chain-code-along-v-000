@@ -14,8 +14,8 @@ function setBestCustomer(){
   bestCustomer = 'not bob'
 }
 
-function overWriteBestCustomer(newFavorite){
-  bestCustomer = newFavorite
+function overWriteBestCustomer(){
+  bestCustomer = 'maybe bob'
 }
 
 function congratulateCustomer(){
@@ -23,6 +23,6 @@ function congratulateCustomer(){
 }
 
 function attemptTwoFavoriteCustomers(){
-    let favoriteCustomer = 'bar'
-    let favoriteCustomer = 'not bar'
+ // let favoriteCustomer = 'bar'
+  //let favoriteCustomer = 'not bar'
 }
