@@ -5,17 +5,16 @@ function upperCaseCustomerName() {
   return customerName = customerName.toUpperCase()
 }
 
-function changeLeastFavoriteCustomer(){
-  leastFavoriteCustomer = 'sour fred'
-}
-
-
 function setBestCustomer(){
   bestCustomer = 'not bob'
 }
 
 function overWriteBestCustomer(newFavorite){
-  bestCustomer = newFavorite
+  bestCustomer = "maybe bob"
+}
+
+function changeLeastFavoriteCustomer(){
+  leastFavoriteCustomer = 'fred'
 }
 
 function congratulateCustomer(){
