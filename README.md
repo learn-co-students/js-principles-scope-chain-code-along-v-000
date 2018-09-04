@@ -5,7 +5,7 @@
 1.  Understand the difference between const and let
 2.  Understand functions determine scope in Javascript
 
-## Introduction
+# Introduction
 
 Scuber's drivers are beginning to take some notes down about their customers. Use your knowledge of scope to access and change some of these variables.
 
