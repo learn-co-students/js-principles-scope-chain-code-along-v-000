@@ -18,7 +18,7 @@ underbelly of a language you can better understand it, and know what to avoid in
 the future.
 
 Ok, this is your task.
-
+.
 - customerName: Declare a variable in global scope called customerName using the
   `var` keyword.
 
