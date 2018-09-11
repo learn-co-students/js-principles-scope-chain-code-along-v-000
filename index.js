@@ -9,7 +9,6 @@ function changeLeastFavoriteCustomer(){
   leastFavoriteCustomer = 'sour fred'
 }
 
-
 function setBestCustomer(){
   bestCustomer = 'not bob'
 }
@@ -25,4 +24,8 @@ function congratulateCustomer(){
 function attemptTwoFavoriteCustomers(){
     let favoriteCustomer = 'bar'
     let favoriteCustomer = 'not bar'
+}
+
+function reassignLeastFavorite() {
+  leastFavoriteCustomer = "Joe"
 }
