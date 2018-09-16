@@ -28,13 +28,13 @@ describe('Fix the Scope', function() {
     })
   })
 
-  describe('reassignLeastFavorite', function(){
+  describe('changeLeastFavoriteCustomer()', function(){
     it('unsuccessfully tries to reassign the least favorite customer', () => {
       expect(changeLeastFavoriteCustomer).to.throw(TypeError)
     })
   })
 
-  describe('attemptTwoFavoriteCustomers', function(){
+  describe('attemptTwoFavoriteCustomers()', function(){
     it('unsuccessfully tries to declare favoriteCustomer with let two times', () => {
       expect(attemptTwoFavoriteCustomers).to.throw(SyntaxError)
     })
