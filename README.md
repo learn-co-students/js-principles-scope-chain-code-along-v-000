@@ -3,7 +3,7 @@
 ## Objectives
 
 1.  Understand the difference between const and let
-2.  Understand functions determine scope in Javascript
+2.  Understand how functions determine scope in Javascript
 
 ## Introduction
 
