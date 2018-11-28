@@ -15,11 +15,12 @@
   }
 
 
-  function reassignLeastFavorite() {
-      leastFavoriteCustomer = 'pete';
 
-  }
+      function changeLeastFavoriteCustomer() {
+          leastFavoriteCustomer = 'pete';
+      }
 
   function attemptTwoFavoriteCustomers() {
-      
+      let favoriteCustomer =  "john";
+      var favoriteCustomer =  "pete";
   }
