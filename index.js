@@ -3,23 +3,23 @@ var customerName = 'bob';
 const leastFavoriteCustomer = 'least favorite';
 
 function upperCaseCustomerName() {
-  return customerName = customerName.toUpperCase();
+  customerName = customerName.toUpperCase();
 }
 
 function setBestCustomer() {
-  return bestCustomer = 'not bob';
+  bestCustomer = 'not bob';
 }
 
-function overWriteBestCustomer() {
-  return bestCustomer = 'maybe bob';
+function overWriteBestCustomer(newFavorite) {
+  bestCustomer = newFavorite;
 }
 
 function changeLeastFavoriteCustomer() {
-  return leastFavoriteCustomer = 'reaasigning';
+  leastFavoriteCustomer = 'reaasigning';
 }
 
 function attemptTwoFavoriteCustomers() {
   let favoriteCustomer = 'favorite';
 
-  return favoriteCustomer = 'reassign';
+  // let favoriteCustomer = 'reassign';
 }
