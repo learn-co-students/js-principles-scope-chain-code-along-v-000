@@ -19,6 +19,6 @@ function overWriteBestCustomer() {
  }
 
 function attemptTwoFavoriteCustomers() {
-  var favoriteCustomer = "me";
-   favoriteCustomer = "bob";
+  let favoriteCustomer = "me";
+  let favoriteCustomer = "bob";
 }
