@@ -1,5 +1,5 @@
 var customerName = `bob`
-let favoriteCustomer = 'tim';
+
 
 
 function upperCaseCustomerName(){
@@ -20,7 +20,9 @@ function changeLeastFavoriteCustomer(){
   leastFavoriteCustomer = `jim`
 }
 
+let favoriteCustomer = 'tim';
+
 function attemptTwoFavoriteCustomers() {
   let favoriteCustomer = 'bill';
-  throw SyntaxError()
+  throw SyntaxError("cannot declare favoriteCustomer twice")
 }
