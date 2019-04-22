@@ -7,18 +7,18 @@ function upperCaseCustomerName(){
 }
 
 function setBestCustomer(){
-  bestCustomer = 'not bob'
+  return bestCustomer = 'not bob'
 }
 
 function overWriteBestCustomer(){
-  bestCustomer = 'maybe bob'
+  return bestCustomer = 'maybe bob'
 }
 
 function changeLeastFavoriteCustomer(){
-  leastFavoriteCustomer = 'bob'
+  return leastFavoriteCustomer = 'bob'
 }
 
-function attemptTwoFavoriteCustomers(){
-  let favoriteCustomer = 'someone'
-  let favoriteCustomer = 'someone else'
-}
+// function attemptTwoFavoriteCustomers(){
+//     let favoriteCustomer = 'bar'
+//     let favoriteCustomer = 'not bar'
+// }
